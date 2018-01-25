@@ -1,0 +1,17 @@
+Platon; Uczta; filozofia
+Shakespeare; Hamlet; tragedia, barok
+Cormen; Algorytmy; informatyka, podrecznik
+Mickiewicz; Pan Tadeusz; klasyka, romantyzm, lektura
+Lem; Summa Technologiae; filozofia, futurologia
+Montgomery; Ania z Zielonego Wzgorza; lektura, powiesc
+Martin; Clean Code; informatyka, programowanie
+Dante; Boska Komedia; tragedia, lektura
+
+
+Hazzard; The Great Fire; historia, powiesc
+Christie      ; ABC; kryminal, powiesc
+Jastrzêbska; Biologia 1; biologia, podrecznik
+Eckel; Thinking in C++;                     informatyka, podrecznik, programowanie
+Bilska; Biologia 2; biologia, podrecznik
+Wozniak; Algorytmika; podrecznik, informatyka, tragedia
+Dobrowolski; Architektura systemów;        informatyka, podrecznik
